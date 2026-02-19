@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website — React + Vite + Spring Boot
+# 🛒 E-Commerce Website — React + Vite 
 
 A full-stack e-commerce web application built using **React (Vite)** for the frontend and **Spring Boot** for the backend.
 This project demonstrates a modern architecture for scalable online shopping platforms.
