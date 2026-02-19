@@ -23,7 +23,7 @@ This project demonstrates a modern architecture for scalable online shopping pla
 
 ### 🗄️ Database
 
-* (Planned) MySQL / PostgreSQL
+* MySQL 
 
 ---
 
@@ -62,7 +62,7 @@ ecommerce-project/
 
 * Java JDK 17+
 * Maven
-* VS Code / IntelliJ
+* VS Code 
 
 ### Run Backend
 
