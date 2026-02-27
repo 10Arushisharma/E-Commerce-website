@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # 🛒 E-Commerce Website 
 =======
 # 🛒 E-Commerce Website
->>>>>>> 2dc612f7af111a2f6b428fea77583753ae3a6729
 
 A full-stack e-commerce web application built using **React (Vite)** for the frontend and **Spring Boot** for the backend.
 This project demonstrates a modern architecture for scalable online shopping platforms.
@@ -31,7 +29,6 @@ This project demonstrates a modern architecture for scalable online shopping pla
 *MySQL 
 =======
 * MySQL 
->>>>>>> 2dc612f7af111a2f6b428fea77583753ae3a6729
 
 ---
 
@@ -74,7 +71,6 @@ ecommerce-project/
 * VS Code
 =======
 * VS Code 
->>>>>>> 2dc612f7af111a2f6b428fea77583753ae3a6729
 
 ### Run Backend
 
