@@ -1,5 +1,4 @@
-# 🛒 E-Commerce Website 
-=======
+
 # 🛒 E-Commerce Website
 
 A full-stack e-commerce web application built using **React (Vite)** for the frontend and **Spring Boot** for the backend.
