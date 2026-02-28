@@ -25,9 +25,6 @@ This project demonstrates a modern architecture for scalable online shopping pla
 
 ### 🗄️ Database
 
-<<<<<<< HEAD
-*MySQL 
-=======
 * MySQL 
 
 ---
